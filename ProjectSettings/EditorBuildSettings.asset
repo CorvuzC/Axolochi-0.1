@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Tamagochi.unity
     guid: 6bdce89659816455b9f906fc62d19910
+  - enabled: 1
+    path: Assets/Scenes/Minijuego 1.unity
+    guid: 5f5fefc15085fa54e8f2f37ea3fc337c
+  - enabled: 1
+    path: Assets/Scenes/Minijuego.unity
+    guid: 8f4757dcec7e894478bc5ecb4329af83
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
       type: 2}
