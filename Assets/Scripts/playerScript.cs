@@ -26,5 +26,10 @@ public class playerScript : MonoBehaviour
         {
             SceneManager.LoadScene(1);
         }
+        if (collision.gameObject.CompareTag("Win"))
+        {
+            SceneManager.LoadScene(3);
+        }
+
     }
 }
